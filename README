@@ -1,0 +1,8 @@
+-(void)autoAdjustHeight;
+resize UILabel to fit the text vertically;
+
+-(void)sizeToFitWidth;
+
+
+-(BOOL)textOverflows;
+return YES if text is overflowing UILabel bounds.
